@@ -1,14 +1,14 @@
 {
-  "name": "fredhohman.github.io",
+  "name": "etashguha.github.io",
   "version": "1.0.0",
-  "description": "Fred Hohman's website.",
+  "description": "Etash Guha's website.",
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --livereload"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredhohman/fredhohman.github.io.git"
+    "url": "git+https://github.com/EtashGuha/etashguha.github.io.git"
   },
   "author": "Fred Hohman",
   "license": "MIT",

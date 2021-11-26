@@ -5,22 +5,22 @@ title: Home
 
 <div id ="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
-		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
+		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
 			I'm an undergraduate CS student at Georgia Tech. 
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to enable <b>machine learning interpretability</b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b>data visualizations</b> and write interactive articles to simply communicate complex ideas.
+		I research how to use <b>Machine Learning Theory</b> to solve Combinatorial Optimization problems. Specifically, I utilize ideas from  <b>Online Learning and Mean Field Theory</b> in order to create algorithms that generate approximate solutions to difficult NP-Hard problems efficiently and accurately. I also work on the applications of using Combinatorial Optimization within Systems for ML. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I received my PhD from Georgia Tech where I worked with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/">Alex Endert</a> as a member of the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>. My research was supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
+		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
+		I have worked with researchers, traders, and software engineers while working at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a>, <a href="https://www.fortlp.com/">FORT LP</a>, and <a href="https://www.sas.com/en_us/home.html">SAS</a>.
 	</div>
 	<!-- <div style="height: 1rem"></div>
 	<div>
