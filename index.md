@@ -16,7 +16,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>
+		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady.</a>
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
