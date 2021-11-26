@@ -7,7 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
 		<div id="intro-subtitle">
-			I'm a Research Scientist at Apple
+			I'm an undergraduate CS student at Georgia Tech. 
 		</div>
 	</div>
 	<div class="intro-left">
