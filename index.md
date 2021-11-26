@@ -64,28 +64,7 @@ title: Home
 	{% endfor %}
 </div>
 
-<h2 class="feature-title l-middle">
-	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
-</h2>
-<div class="cover-wrapper l-screen">
-	{% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
-	{% for feature in sortedArticles %}
-		{% if feature.featured == true %}
-			{% include feature.html feature=feature %}
-		{% endif %}
-	{% endfor %}
-</div>
 
-<h2 class="feature-title l-middle">
-	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
-</h2>
-<div id="everything-else" class="l-middle">
-	<a href="{{ site.url }}/projects"><div>Projects</div></a>
-	<a href="{{ site.url }}/blog"><div>Blog</div></a>
-	<a href="{{ site.url }}/stuff-i-use"><div>Stuff I Use</div></a>
-	<a href="{{ site.url }}/monthly-music"><div>Monthly Music</div></a>
-	<a href="{{ site.url }}/archive"><div>Archive</div></a>
-</div>
 <!-- <p class="l-middle intro-text" markdown="1">
 	Including a list of [projects][projects], the [blog][blog], [monthly music playlists][monthly-music], [stuff I use][stuff-i-use], and the [archive][archive].
 </p> -->
