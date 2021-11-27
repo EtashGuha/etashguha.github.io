@@ -3,17 +3,17 @@ layout: paper
 categories: papers
 permalink: papers/chameleon
 id: sn
-title: "A Variational Approach for Combinatorial Optimization Problems on Graphs"
+title: "Learned Cost Model for Placement on Reconfigurable Dataflow Hardware"
 venue: ACM Conference on Human Factors in Computing Systems
 venue-shorthand: pre-print
 location: Honolulu, HI, USA
 year: 2021
-url: /papers/vgnn
-pdf: /papers/AAAI2022.pdf
-feature-title: VGNN
-feature-description: A Variational Approach for Combinatorial Optimization Problems on Graphs
-image: /images/featured/image_song.png
-feature-order: 2
+url: /papers/sn
+pdf: /papers/sn_website.pdf
+feature-title: Learned Cost Model
+feature-description: "Learned Cost Model for Placement on Reconfigurable Dataflow Hardware"
+image: /images/featured/DacFigure.png
+feature-order: 1
 featured: true
 selected: true
 type: conference

@@ -12,7 +12,6 @@
   pdf: /papers/AI2022.pdf
   feature-title: Variational Approach
   feature-description: Learning Distribution of Solutions to Combinatorial Optimization
-  image: /images/featured/chameleon.png
   feature-order: 1
   featured: true
   selected: true
