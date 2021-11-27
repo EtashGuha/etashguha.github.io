@@ -22,25 +22,5 @@
   on-homepage: true
   cv-group: 2
 
-- id: scholar
-  description: "Google Scholar"
-  color: "#515151"
-  class: "fa fa-graduation-cap icon"
-  url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
-  on-homepage: true
-  cv-group: 2
 
-- id: cv
-  description: CV PDF
-  color: "#ba2818"
-  class: "far fa-file-pdf icon"
-  url: "https://fredhohman.com/cv.pdf"
-  on-homepage: false
-  cv-group: 1
 
-- id: cv-web
-  description: Here's my CV
-  color: "#515151"
-  class: "fa fa-address-card icon"
-  url: "https://fredhohman.com/cv/"
-  on-homepage: false
