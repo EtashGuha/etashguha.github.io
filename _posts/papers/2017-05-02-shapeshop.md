@@ -15,7 +15,8 @@ icon: shapeshop.png
 tagline: Understanding Deep Learning Representations via Interactive Experimentation
 feature-title: "Robotic Exploration"
 feature-description: "Robotic Exploration"
-poster: "https://fredhohman.com/papers/17-shapeshop-chi-poster.pdf"
+poster: /papers/NCURPOSTER.pdf
+pdf: /papers/NCURPOSTER.pdf
 collaboration: PNNL
 type: poster
 featured: true
