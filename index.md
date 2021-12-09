@@ -45,7 +45,7 @@ title: Home
 				{% include social-link.html link=link %}
 			{% endif %}
 		{% endfor %}
-		<!-- <div id="intro-cv"><a href="/cv">Here's my CV.</a></div> -->
+		<div id="intro-cv"><a href="/cv">Here's my CV.</a></div>
 	</div>
 	</div>
 </div>
