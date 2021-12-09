@@ -1,6 +1,5 @@
 /* TEAM */
-	Author: Fred Hohman
-	Twitter: @fredhohman
+	Author: Etash Guha
 	Location: Atlanta, United States
 
 /* SITE */

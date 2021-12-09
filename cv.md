@@ -149,25 +149,9 @@ My research is supported by a NASA Space Technology Research Fellowship.
 <!-- 
 ## Contact
 
-Fred Hohman  
-`fredhohman@gatech.edu`  
-CODA Tech Square  
-Georgia Tech  
-756 W Peachtree St NW  
-Atlanta, GA 30308
-<span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
-—  
-USA  
-Earth  
-Solar System  
-Milky Way  
-Local Group  
-Universe  
-</span> -->
-
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
-
+<!-- 
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
 [gt]: http://gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
@@ -186,4 +170,4 @@ Universe
 
 [twitter]: https:/www.twitter.com/fredhohman "@fredhohman"
 [github]: https:/www.github.com/fredhohman "github.com/fredhohman"
-[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"
+[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship" -->
