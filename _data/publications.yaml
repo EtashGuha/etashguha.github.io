@@ -36,3 +36,17 @@
   featured: true
   selected: true
   type: conference
+
+- id: plasticity
+  title: "Learning with Plasticity Rules: Generalization and Robustness"
+  # venue: ACM Conference on Human Factors in Computing Systems
+  venue-shorthand: pre-print 2022
+  year: 2022
+  url: /papers/plasticity
+  pdf: /papers/learning_with_plasticity_rules.pdf
+  feature-title: Plasticity Rules
+  feature-description: Hebbian Plasticity based Learning Mechanism
+  feature-order: 3
+  featured: true
+  selected: true
+  type: conference

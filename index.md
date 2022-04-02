@@ -12,11 +12,11 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to use <b>Machine Learning Theory</b> to solve Combinatorial Optimization problems. Specifically, I utilize ideas from  <b>Online Learning and Mean Field Theory</b> in order to create algorithms that generate approximate solutions to difficult NP-Hard problems efficiently and accurately. I also work on the applications of using Combinatorial Optimization within Systems for ML. 
+		I research how to use <b>Machine Learning Theory</b> to design fast and efficient learning algorithms. Specifically, I analyze algorithms and ideas from  <b>Online Learning and Reinforcement Learning</b>. Additionally, I often apply my work in the fields of Combinatorial Optimization and Systems for ML.  
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady.</a>
+		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>. I am also advised by <a href="https://faculty.cc.gatech.edu/~vempala">Santosh Vempala</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>

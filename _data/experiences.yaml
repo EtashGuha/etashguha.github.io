@@ -10,7 +10,51 @@
 - institution: Georgia Institute of Technology
   location: "Atlanta, Georgia"
   position: Undergraduate Research Assistant
-  year: "Aug. 2021 - July 2021"
+  year: "Feb. 2022 - Current"
+  mentors: 
+    - Jacob Abernethy
+  advisor: true
+  description: "Working on designing general class of frameworks for two player Fenchel Games to model perceptron algorithms"
+  institution-url: http://gatech.edu
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, Georgia"
+  position: Undergraduate Research Assistant
+  year: "Feb. 2022 - Current"
+  mentors: 
+    - Santosh Vempala
+  advisor: true
+  description: "Tested a Hebbian Plasticity based learning system and analyzed its computational capacity"
+  institution-url: http://gatech.edu
+  type: academic
+  
+- institution: Georgia Institute of Technology
+  location: "Atlanta, Georgia"
+  position: Undergraduate Research Assistant
+  year: "Feb. 2022 - Current"
+  mentors: 
+    - Xiaoming Huo
+  advisor: true
+  description: "Analyzinng Computational Capacity of Stable Conformal Prediction Sets"
+  institution-url: http://gatech.edu
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, Georgia"
+  position: Undergraduate Research Assistant
+  year: "Feb. 2022 - Current"
+  mentors: 
+    - Siva Theja Maguluri
+  advisor: true
+  description: "Currently analyzing the drift of a stochastic process within TD learning using Stochastic Averaging"
+  institution-url: http://gatech.edu
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, Georgia"
+  position: Undergraduate Research Assistant
+  year: "Aug. 2021 - Current"
   mentors: 
     - Vidya Muthukumar
     - Ashwin Pananjady
