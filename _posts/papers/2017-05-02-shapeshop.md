@@ -19,8 +19,8 @@ poster: /papers/NCURPOSTER.pdf
 pdf: /papers/NCURPOSTER.pdf
 collaboration: PNNL
 type: poster
-featured: true
-selected: true
+featured: false
+selected: false
 image: images/featured/ego_3d.png
 feature-order: 3
 ---
