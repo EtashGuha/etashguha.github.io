@@ -4,15 +4,15 @@ categories: papers
 permalink: papers/conformal_prediction
 id: conformal_prediction
 title: "Conformalization of Sparse Generalized Linear Models"
-venue: pre-print 2022
-venue-shorthand: pre-print
-year: 2022
+venue: International Conference of Machine Learning
+venue-shorthand: ICML
+year: 2023
 url: /papers/general_cp
 pdf: /papers/predictor_corrector_cp.pdf
 feature-title: Conformal Prediction
 feature-description: "Conformalization of Sparse Generalized Linear Models"
 image: /images/featured/cpranks_robust_friedman2.png
-feature-order: 4
+feature-order: 1
 featured: true
 selected: true
 type: conference
