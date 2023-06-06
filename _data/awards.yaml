@@ -1,7 +1,11 @@
 - name: Stamps President's Scholarship at Georgia Tech
   description: Full-Ride Merit Scholarship given to 40 Freshman at Georgia Tech
-  year: 2018-2021
+  year: 2018-2022
+
+- name: Fatima Fellowship
+  description: An International Mentorship Program for Aspiring Researchers in Computer Science given to 40 students
+  year: 2023
 
 - name: Faculty List
   description: Awarded to students with 4.0 GPA
-  year: 2018-2021
+  year: 2018-2022

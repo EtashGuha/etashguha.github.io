@@ -8,7 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">Etash Guha</a></h1>
 
-<p id="cv-subtitle"><i>Undergraduate Researcher<span class="cv-ai"></span> </i></p>
+<p id="cv-subtitle"><i>Researcher<span class="cv-ai"></span> </i></p>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
@@ -30,7 +30,7 @@ jsarr:
 </div> -->
 
 <div>
-I research how to use <b>Machine Learning Theory</b> to solve Combinatorial Optimization problems. Specifically, I utilize ideas from  <b>Online Learning and Mean Field Theory</b> in order to create algorithms that generate approximate solutions to difficult NP-Hard problems efficiently and accurately. I also work on the applications of using Combinatorial Optimization within Systems for ML. 
+I research how to use <b>Machine Learning Theory</b> for <b>AI Safety</b>. Specifically, I develop and analyze algorithms to ensure Deep Learning and Reinforcement Learning can be used in High Stakes Environments. I investigate properties such as Robustness, Uncertainty, Bias, Generalization, and more. 
 </div>
 
 <div class="cv-spacer"></div>
@@ -93,26 +93,6 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endfor %}
 
 ## Publications
-
-### Selected: Latest & Greatest
-
-{% assign selectedBoolForBibtex = true %}
-
-{% assign selected = site.categories.papers | where: 'selected', true %}
-{% for pub in selected %}
-{% include cv/publication.html pub=pub %}
-{% endfor %}
-
-<!-- ### All Publications -->
-
-{% assign selectedBoolForBibtex = false %}
-
-<!-- ### Journal
-
-{% assign journal = site.categories.papers | where: 'type', "journal" %}
-{% for pub in journal %}
-{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %} -->
 
 ### Conference
 

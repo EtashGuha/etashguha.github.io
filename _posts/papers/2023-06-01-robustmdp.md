@@ -4,14 +4,13 @@ categories: papers
 permalink: papers/robustmdp
 id: robustmdp
 title: "Solving Robust MDPs through No-Regret Dynamics"
-venue: pre-print
-venue-shorthand: pre-print
-year: 2022
+venue: Under Review
+year: 2023
 url: /papers/robustmdp
 pdf: https://arxiv.org/abs/2305.19035
 feature-title: Robust MDPs
-feature-description: "Robust MDPs"
-image: /images/featured/linear_bandit.png
+feature-description: "Solving Robust MDPs through No-Regret Dynamics"
+image: /images/featured/rl.png
 feature-order: 2
 featured: true
 selected: true
