@@ -4,8 +4,7 @@ categories: papers
 permalink: papers/invlinban
 id: invlinban
 title: "Inverse Reinforcement Learning for Phased Elimination of Linear Stochastic Bandits"
-venue: pre-print 2022
-venue-shorthand: pre-print
+venue: Pre-Print
 year: 2022
 url: /papers/invlinban
 pdf: /papers/OPT2022temp.pdf

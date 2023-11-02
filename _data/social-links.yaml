@@ -23,4 +23,20 @@
   cv-group: 2
 
 
+- id: twitter
+  description: "@etash-guha"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://twitter.com/etash_guha
+  on-homepage: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?hl=en&user=QMV3HxMAAAAJ"
+  on-homepage: true
+  cv-group: 1
+
 

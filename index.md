@@ -7,16 +7,16 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
-			I'm an undergraduate CS student at Georgia Tech. 
+			I'm a researcher at RIKEN AIP in Tokyo, Japan. 
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to use <b>Machine Learning Theory</b> to design fast and efficient learning algorithms. Specifically, I analyze algorithms and ideas from  <b>Online Learning and Reinforcement Learning</b>. Additionally, I often apply my work in the fields of Combinatorial Optimization and Systems for ML.  
+		I research how to use <b>Machine Learning Theory</b> for <b>AI Safety</b>. Specifically, I develop and analyze algorithms to ensure Deep Learning and Reinforcement Learning can be used in High Stakes Environments. I investigate properties such as Robustness, Uncertainty, Bias, Generalization, and more.  
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently a Senior at Georgia Tech studying CS with threads in Intelligence and Theory. I was previously advised by <a href="https://www.linkedin.com/in/le-song-03223813">Le Song</a> in the Machine Learning Lab. I am now currently advised by <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a> and <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>. I am also advised by <a href="https://faculty.cc.gatech.edu/~vempala">Santosh Vempala</a>.
+		I am currently a Researcher at RIKEN under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team. I was both an undergraduate student and Research Assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>

@@ -2,76 +2,44 @@
   location: "Palo Alto, California"
   position: Research Intern
   group: "ML for PnR"
-  year: "May 2021 — Present"
+  year: "May 2021 — May 2023"
   description: "Developed Learned Cost Model using Graph Neural Networks to predict quality of chip placement, beating several man-made heuristics"
   institution-url: https://sambanova.ai/ 
   type: industry
 
+- institution: RIKEN Advanced AI Project
+  location: "Tokyo, Japan"
+  position: Research Assistant on Approximate Bayesian Inference Team
+  year: "May 2023 - Current"
+  mentors: 
+    - Emtiyaz Khan
+  advisor: true
+  description: "Working using Bayesian techniques to improve AI Safety"
+  institution-url: https://emtiyaz.github.io/
+  type: academic
+
 - institution: Georgia Institute of Technology
   location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  year: "Feb. 2022 - Current"
+  position: Research Assistant
+  year: "May 2023 - May 2024"
   mentors: 
     - Jacob Abernethy
-  advisor: true
-  description: "Working on designing general class of frameworks for two player Fenchel Games to model perceptron algorithms"
-  institution-url: http://gatech.edu
-  type: academic
-
-- institution: Georgia Institute of Technology
-  location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  year: "Feb. 2022 - Current"
-  mentors: 
-    - Santosh Vempala
-  advisor: true
-  description: "Tested a Hebbian Plasticity based learning system and analyzed its computational capacity"
-  institution-url: http://gatech.edu
-  type: academic
-  
-- institution: Georgia Institute of Technology
-  location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  year: "Feb. 2022 - Current"
-  mentors: 
     - Xiaoming Huo
   advisor: true
-  description: "Analyzinng Computational Capacity of Stable Conformal Prediction Sets"
+  description: "Developped Generalization Bounds for Magnitude-Based Pruning. Proved that Sparse and Wide Neural Networks Forget Less. Developped an No-Regret Framework to solve Robust Markov Decision Processes."
   institution-url: http://gatech.edu
   type: academic
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, Georgia"
   position: Undergraduate Research Assistant
-  year: "Feb. 2022 - Current"
+  year: "Feb. 2022 - May 2023"
   mentors: 
-    - Siva Theja Maguluri
-  advisor: true
-  description: "Currently analyzing the drift of a stochastic process within TD learning using Stochastic Averaging"
-  institution-url: http://gatech.edu
-  type: academic
-
-- institution: Georgia Institute of Technology
-  location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  year: "Aug. 2021 - Current"
-  mentors: 
+    - Jacob Abernethy
     - Vidya Muthukumar
     - Ashwin Pananjady
   advisor: true
-  description: "Devellopped an Inverse Reinforcement Learning algorithm for Linear Stochastic Bandits"
-  institution-url: http://gatech.edu
-  type: academic
-
-- institution: Georgia Institute of Technology
-  location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  group: Machine Learning Lab
-  year: "Aug. 2019 - July 2021"
-  mentors: 
-    - Le Song
-  advisor: true
-  description: "Developped a learned methodology to efficiently and accurately generate solutions to NP-Hard problems"
+  description: "Working on designing general class of frameworks for two player Fenchel Games to model perceptron algorithms. Tested a Hebbian Plasticity based learning system and analyzed its computational capacity. Analyzing Efficient Algorithm for generating Conformal Prediction Sets. Developed an Inverse Reinforcement Learning algorithm for Linear Stochastic Bandits. Developed a learned methodology to efficiently and accurately generate solutions to NP-Hard problems."
   institution-url: http://gatech.edu
   type: academic
 
