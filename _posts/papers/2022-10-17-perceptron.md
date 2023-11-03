@@ -4,7 +4,7 @@ categories: papers
 permalink: papers/perceptron
 id: perceptron
 title: "On Accelerated Perceptrons and Beyond"
-venue: International Conference of Learning Representations
+venue: International Conference of Learning Representations 2023
 venue-shorthand: ICLR
 year: 2023
 url: https://arxiv.org/abs/2210.09371

@@ -7,7 +7,7 @@ title: "Predicting Situations with Loop Closures in Frontier Based Robotic Explo
 authors:
     - Etash Guha
     - Patricio Vela
-venue: "National Conference of Undergraduate Research"
+venue: National Conference of Undergraduate Research 2019
 venue-shorthand: NCUR
 location: Atlanta, GA, USA
 year: 2019
