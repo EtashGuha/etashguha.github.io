@@ -1,0 +1,25 @@
+- venue: International Conference of Learning Represenations
+  venue-shorthand: ICLR
+  years:
+    - year: 2024
+      url: https://iclr.cc/
+- venue: Conference on Neural Information Processing Systems
+  venue-shorthand: NeurIPS
+  years:
+    - year: 2023
+      url: https://neurips.cc/
+- venue: Conference on Artificial Intelligence and Statistics
+  venue-shorthand: AISTATS
+  years:
+    - year: 2024
+      url: https://virtual.aistats.org/
+- venue: Optimization for Machine Learning Workshop @ NeurIPS
+  venue-shorthand: OPT
+  years:
+    - year: 2023
+      url: https://opt-ml.org/
+- venue: Duality Principles for Modern Machine Learning Workshop @ ICML
+  venue-shorthand: DP4ML
+  years: 
+    - year: 2023
+      url: https://opt-ml.org/

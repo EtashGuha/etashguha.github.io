@@ -7,7 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
-			I'm a researcher at RIKEN AIP in Tokyo, Japan. 
+			I'm a researcher at SambaNova Systems in Palo Alto, California. 
 		</div>
 	</div>
 	<div class="intro-left">
@@ -16,7 +16,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently a Researcher at RIKEN under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team. I was both an undergraduate student and Research Assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
+		I am currently a Researcher at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a> working on the reliability of Large Language Models. Most recently, I was a Research Intern under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team at RIKEN AIP in Tokyo, Japan. I was both an undergraduate student and Research Assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>

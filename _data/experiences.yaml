@@ -1,5 +1,15 @@
 - institution: SambaNova Systems
   location: "Palo Alto, California"
+  position: Researcher
+  group: "NLP"
+  year: "Nov 2023 - Current"
+  description: "Working on the Reliability of Large Language Models"
+  institution-url: https://sambanova.ai/ 
+  type: industry
+
+
+- institution: SambaNova Systems
+  location: "Palo Alto, California"
   position: Research Intern
   group: "ML for PnR"
   year: "May 2021 — May 2023"
@@ -7,16 +17,6 @@
   institution-url: https://sambanova.ai/ 
   type: industry
 
-- institution: RIKEN Advanced AI Project
-  location: "Tokyo, Japan"
-  position: Research Assistant on Approximate Bayesian Inference Team
-  year: "May 2023 - Current"
-  mentors: 
-    - Emtiyaz Khan
-  advisor: true
-  description: "Working using Bayesian techniques to improve AI Safety"
-  institution-url: https://emtiyaz.github.io/
-  type: academic
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, Georgia"
