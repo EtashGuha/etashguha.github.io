@@ -92,6 +92,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/award.html award=award %}
 {% endfor %}
 
+## Patents
+
+{% for award in site.data.patents %}
+{% include cv/award.html award=award %}
+{% endfor %}
+
 ## Publications
 
 ### Conference
