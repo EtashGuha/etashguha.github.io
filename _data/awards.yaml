@@ -2,10 +2,26 @@
   description: Full-Ride Merit Scholarship given to 40 Freshman at Georgia Tech
   year: 2018-2022
 
-- name: Fatima Fellowship
-  description: An International Mentorship Program for Aspiring Researchers in Computer Science given to 40 students
-  year: 2023
+- name: Faculty List
+  description: Awarded to students with 4.0 GPA
+  year: 2018-2022
+
+- name: US Patent on "Learned Cost Models For Performance Optimization On Dataflow Architecture"
+  description: Awarded a Patent based on work done at SambaNova Systems
+  year: 2022
+
+- name: US Patent on "Performance Optimization of Dataflow Processors"
+  description: Awarded a Patent based on work done at SambaNova Systems
+  year: 2022
+
+- name: US Patent on "Estimating Resource Costs for Computing Tasks for a Reconfigurable Dataflow Computing System"
+  description: Awarded a Patent based on work done at SambaNova Systems
+  year: 2022
 
 - name: Faculty List
   description: Awarded to students with 4.0 GPA
   year: 2018-2022
+
+- name: US Patent on "Volume controllable toilet flush systems and methods of use"
+  description: Awarded a Patent based on novel toilet design for adjustable water usage
+  year: 2018
