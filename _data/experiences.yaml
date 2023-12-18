@@ -1,5 +1,14 @@
 - institution: SambaNova Systems
   location: "Palo Alto, California"
+  position: Researcher
+  group: "NLP"
+  year: "Oct. 2023 - Current"
+  description: "Initiated the improvement of reliability and safety of open-source Large Language Models for large customers"
+  institution-url: https://sambanova.ai/ 
+  type: industry
+
+- institution: SambaNova Systems
+  location: "Palo Alto, California"
   position: Research Intern
   group: "ML for PnR"
   year: "May 2021 — May 2023"
@@ -7,14 +16,6 @@
   institution-url: https://sambanova.ai/ 
   type: industry
 
-- institution: SambaNova Systems
-  location: "Palo Alto, California"
-  position: Researcher
-  group: "NLP"
-  year: "October 2023 - Current"
-  description: "Initiated the improvement of reliability and safety of open-source Large Language Models for large customers"
-  institution-url: https://sambanova.ai/ 
-  type: industry
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, Georgia"
@@ -41,23 +42,12 @@
   institution-url: http://gatech.edu
   type: academic
 
-- institution: Georgia Institute of Technology
-  location: "Atlanta, Georgia"
-  position: Undergraduate Research Assistant
-  year: "Feb. 2022 - May 2023"
-  mentors: 
-    - Jacob Abernethy
-    - Vidya Muthukumar
-    - Ashwin Pananjady
-  advisor: true
-  description: "Working on designing general class of frameworks for two player Fenchel Games to model perceptron algorithms. Tested a Hebbian Plasticity based learning system and analyzed its computational capacity. Analyzing Efficient Algorithm for generating Conformal Prediction Sets. Developed an Inverse Reinforcement Learning algorithm for Linear Stochastic Bandits. Developed a learned methodology to efficiently and accurately generate solutions to NP-Hard problems."
-  institution-url: http://gatech.edu
-  type: academic
+
 
 - institution: RIKEN Project for Artificial Intelligence
   location: "Tokyo, Japan"
   position: Research Intern
-  year: "May 2023 - October 2023"
+  year: "May 2023 - Oct. 2023"
   mentors: 
     - Mohammad Emtiyaz Khan
   advisor: true
