@@ -4,7 +4,7 @@ categories: papers
 permalink: papers/cl
 id: cl
 title: "On the Diminishing Returns of Width for Continual Learning"
-venue: Under Review at AISTATS 2024
+venue: ICLR 2024 Workshop on Bridging the Gap Between Practice and Theory in Deep Learning
 url: /papers/cl
 pdf: /papers/Go_Sparse_and_Wide_to_Forget_Less.pdf
 feature-title: Continual Learning
