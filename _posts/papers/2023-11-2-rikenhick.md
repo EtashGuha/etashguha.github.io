@@ -6,7 +6,7 @@ id: cl
 title: "On the Diminishing Returns of Width for Continual Learning"
 venue: ICLR 2024 Workshop on Bridging the Gap Between Practice and Theory in Deep Learning
 url: /papers/cl
-pdf: /papers/Go_Sparse_and_Wide_to_Forget_Less.pdf
+pdf: https://arxiv.org/pdf/2403.06398.pdf
 feature-title: Continual Learning
 feature-description: "Continual Learning"
 image: /images/featured/cpranks_robust_friedman2.png
