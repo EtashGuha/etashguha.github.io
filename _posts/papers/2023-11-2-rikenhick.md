@@ -4,7 +4,9 @@ categories: papers
 permalink: papers/cl
 id: cl
 title: "On the Diminishing Returns of Width for Continual Learning"
-venue: ICLR 2024 Workshop on Bridging the Gap Between Practice and Theory in Deep Learning
+venue: International Conference of Machine Learning 2024; ICLR 2024 Workshop on Bridging the Gap Between Practice and Theory in Deep Learning
+venue-shorthand: ICML
+year: 2024
 url: /papers/cl
 pdf: https://arxiv.org/pdf/2403.06398.pdf
 feature-title: Continual Learning
