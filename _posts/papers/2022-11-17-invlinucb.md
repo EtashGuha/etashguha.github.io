@@ -4,7 +4,7 @@ categories: papers
 permalink: papers/invlinban
 id: invlinban
 title: "One Shot Inverse Reinforcement Learning for Stochastic Linear Bandits"
-venue: Conference on Uncertainty in Artificial Intelligence
+venue: Conference on Uncertainty in Artificial Intelligence 2024
 year: 2024
 venue-shorthand: UAI
 url: /papers/invlinban
