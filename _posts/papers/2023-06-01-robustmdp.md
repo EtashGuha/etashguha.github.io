@@ -4,8 +4,8 @@ categories: papers
 permalink: papers/robustmdp
 id: robustmdp
 title: "Solving Robust MDPs through No-Regret Dynamics"
-venue: Under Review at TMLR
-year: 2023
+venue: Transactions of Machine Learning Research
+year: 2024
 url: /papers/robustmdp
 pdf: https://arxiv.org/abs/2305.19035
 feature-title: Robust MDPs
