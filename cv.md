@@ -30,7 +30,7 @@ jsarr:
 </div> -->
 
 <div>
-I research how to use <b>Machine Learning Theory</b> for <b>AI Safety</b>. Specifically, I develop and analyze algorithms to ensure Deep Learning and Reinforcement Learning can be used in High Stakes Environments. I investigate properties such as Robustness, Uncertainty, Bias, Generalization, and more. 
+I research how to design training data curation protocols for training large text and image models. This includes synthetic data generation, data filtering, and online data sampling 
 </div>
 
 <div class="cv-spacer"></div>

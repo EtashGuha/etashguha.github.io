@@ -7,16 +7,16 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
-			I'm a researcher at SambaNova Systems in Palo Alto, California. 
+			I'm a Ph.D. student at the University of Washington Computer Science and Engineering Department.
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to use <b>Machine Learning Theory</b> for <b>AI Safety</b>. Specifically, I develop and analyze algorithms to ensure Deep Learning and Reinforcement Learning can be used in High Stakes Environments. I investigate properties such as Robustness, Uncertainty, Bias, Generalization, and more.  
+		I research how to design and improve training data curation protocols for training large text and image models. This includes synthetic data generation, data filtering, and online data sampling.  
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently a Researcher at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a> working on the reliability of Large Language Models. Most recently, I was a Research Intern under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team at RIKEN AIP in Tokyo, Japan. I was both an undergraduate student and Research Assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
+		I am also currently a Researcher at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a> working on the reliability of Large Language Models. Most recently, I was a Research Intern under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team at RIKEN AIP in Tokyo, Japan. I was both an undergraduate student and Research Assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
