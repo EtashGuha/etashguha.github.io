@@ -12,7 +12,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to design and improve training data curation protocols for training large text and image models. This includes synthetic data generation, data filtering, and online data sampling. I am <b>extremely</b> fortunate  to be advised by the amazing Professors <a href=https://people.csail.mit.edu/ludwigs> Ludwig Schmidt </a> and <a href=https://homes.cs.washington.edu/~yejin>Yejin Choi</a>.
+		I research how to design and improve training data curation protocols for training large text and image models. This includes synthetic data generation, data filtering, and online data sampling. I am <b>extremely</b> fortunate  to be advised by the amazing Professors <a href="https://people.csail.mit.edu/ludwigs"> Ludwig Schmidt</a> and <a href="https://homes.cs.washington.edu/~yejin"> Yejin Choi</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
