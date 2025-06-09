@@ -13,8 +13,8 @@ feature-title: Conformal Prediction
 feature-description: "Conformalization of Sparse Generalized Linear Models"
 image: /images/featured/cpranks_robust_friedman2.png
 feature-order: 1
-featured: true
-selected: true
+featured: false
+selected: false
 type: conference
 authors:
     - Etash Guha

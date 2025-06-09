@@ -14,7 +14,7 @@ feature-description: "Continual Learning"
 image: /images/featured/cpranks_robust_friedman2.png
 feature-order: 1
 featured: false
-selected: true
+selected: false
 type: conference
 authors:
     - Etash Guha

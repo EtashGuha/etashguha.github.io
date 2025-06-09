@@ -13,8 +13,8 @@ feature-title: Accelerated Perceptrons
 feature-description: "On Accelerated Perceptrons and Beyond"
 image: /images/featured/perceptron_image.png
 feature-order: 3
-featured: true
-selected: true
+featured: false
+selected: false
 type: conference
 authors:
     - Guanghui Wang

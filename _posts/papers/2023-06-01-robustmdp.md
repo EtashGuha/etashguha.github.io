@@ -12,8 +12,8 @@ feature-title: Robust MDPs
 feature-description: "Solving Robust MDPs through No-Regret Dynamics"
 image: /images/featured/rl.png
 feature-order: 2
-featured: true
-selected: true
+featured: false
+selected: false
 type: conference
 authors:
     - Etash Guha

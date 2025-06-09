@@ -13,8 +13,8 @@ feature-title: Inverse Reinforcement Learning
 feature-description: "Inverse Reinforcement Learning"
 image: /images/featured/linear_bandit.png
 feature-order: 3
-featured: true
-selected: true
+featured: false
+selected: false
 type: conference
 authors:
     - Etash Guha
