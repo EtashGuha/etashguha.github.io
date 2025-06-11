@@ -7,10 +7,10 @@
   cv-group: 1
 
 - id: email
-  description: "etash@gatech.edu"
+  description: "etash@stanford.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:etash@gatech.edu"
+  url: "mailto:etash@stanford.edu"
   on-homepage: true
   cv-group: 1
 
