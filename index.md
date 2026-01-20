@@ -7,7 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
-			I'm a Ph.D. student at the University of Washington Computer Science and Engineering Department.
+			I'm a Ph.D. student in the Stanford CS Department.
 		</div>
 	</div>
 	<div class="intro-left">
