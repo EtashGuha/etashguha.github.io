@@ -20,7 +20,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I have worked with researchers, traders, and software engineers while working at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a>, <a href="https://www.fortlp.com/">FORT LP</a>, and <a href="https://www.sas.com/en_us/home.html">SAS</a>.
+		I have worked with researchers, traders, and software engineers while working at <a href="https://www.bespokelabs.ai/">Bespoke Labs</a>, <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a>, <a href="https://www.fortlp.com/">FORT LP</a>, and <a href="https://www.sas.com/en_us/home.html">SAS</a>.
 	</div>
 	<!-- <div style="height: 1rem"></div>
 	<div>
