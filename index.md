@@ -7,20 +7,23 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Etash Guha</h1>
 		<div id="intro-subtitle">
-			I'm a Ph.D. student in the Stanford CS Department.
+			I'm a Member of Technical Staff at Anthropic on the pretraining team.
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to design and improve training data curation protocols for training large text and image models. This includes synthetic data generation, data filtering, and online data sampling. I am <b>extremely</b> fortunate  to be advised by the amazing Professors <a href="https://people.csail.mit.edu/ludwigs"> Ludwig Schmidt</a> and <a href="https://homes.cs.washington.edu/~yejin"> Yejin Choi</a>. I'm graciously supported by the NSF Graduate Research Fellowship. 
+		I work on pretraining at <a href="https://www.anthropic.com/">Anthropic</a>. Previously, I was a Ph.D. student in the Stanford CS Department, where I researched how to design and improve training data curation protocols for training large text and image models. I was <b>extremely</b> fortunate to be advised by the amazing Professors <a href="https://people.csail.mit.edu/ludwigs"> Ludwig Schmidt</a> and <a href="https://homes.cs.washington.edu/~yejin"> Yejin Choi</a>, and was supported by the NSF Graduate Research Fellowship.
 	</div>
 	<div style="height: 1rem"></div>
-	<div class="intro-left">
-		I was a researcher at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a> working on the reliability of Large Language Models. Most recently, I was a research intern under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team at RIKEN AIP in Tokyo, Japan. I was both an undergraduate student and research assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>. 
+	<!-- <div class="intro-left">
+		I was a researcher at <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a> working on the reliability of Large Language Models. Most recently, I was a research intern under <a href="https://emtiyaz.github.io/">Dr. Emtiyaz Khan</a> on the Approximate Bayesian Inference Team at RIKEN AIP in Tokyo, Japan.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I have worked with researchers, traders, and software engineers while working at <a href="https://www.bespokelabs.ai/">Bespoke Labs</a>, <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a>, <a href="https://www.fortlp.com/">FORT LP</a>, and <a href="https://www.sas.com/en_us/home.html">SAS</a>.
+		I have worked with researchers, traders, and software engineers while working at <a href="https://www.anthropic.com/">Anthropic</a>, <a href="https://www.bespokelabs.ai/">Bespoke Labs</a>, <a href="https://sambanova.ai/?gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDr2s7pJ9vwSq0IiztdcXjYXR4VyjhZznyNNJ1QiqNxQw6M7PjVBJqBoCKYsQAvD_BwE">SambaNova Systems</a>, <a href="https://www.fortlp.com/">FORT LP</a>, and <a href="https://www.sas.com/en_us/home.html">SAS</a>.
+	</div> -->
+	<div class="intro-left">
+		I was both an undergraduate student and research assistant at Georgia Tech where I worked with <a href="https://vmuthukumar.ece.gatech.edu/">Vidya Muthukumar</a>, <a href="https://sites.gatech.edu/ashwin-pananjady">Ashwin Pananjady</a>,  <a href="https://faculty.cc.gatech.edu/~jabernethy9"> Jacob Abernethy</a>, and <a href="https://www.isye.gatech.edu/users/xiaoming-huo">Xiaoming Huo</a>.
 	</div>
 	<!-- <div style="height: 1rem"></div>
 	<div>

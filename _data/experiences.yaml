@@ -1,3 +1,12 @@
+- institution: Anthropic
+  location: "San Francisco, California"
+  position: Member of Technical Staff
+  group: "Pretraining"
+  year: "Feb. 2026 - Present"
+  description: "Working on pretraining large language models"
+  institution-url: https://www.anthropic.com/
+  type: industry
+
 - institution: SambaNova Systems
   location: "Palo Alto, California"
   position: Researcher
